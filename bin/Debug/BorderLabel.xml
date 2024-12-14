@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BorderLabel</name>
+    </assembly>
+    <members>
+        <member name="T:cSouza.WinForms.Controls.BorderLabel">
+            <summary>
+              Represents a Bordered label.
+            </summary>
+        </member>
+        <member name="M:cSouza.WinForms.Controls.BorderLabel.#ctor">
+            <summary>
+              Constructs a new BorderLabel object.
+            </summary>
+        </member>
+        <member name="M:cSouza.WinForms.Controls.BorderLabel.Dispose(System.Boolean)">
+            <summary>
+              Releases all resources used by this control
+            </summary>
+            <param name="disposing">True to release both managed and unmanaged resources.</param>
+        </member>
+        <member name="P:cSouza.WinForms.Controls.BorderLabel.BorderSize">
+            <summary>
+              The border's thickness
+            </summary>
+        </member>
+        <member name="P:cSouza.WinForms.Controls.BorderLabel.BorderColor">
+            <summary>
+              The border color of this component
+            </summary>
+        </member>
+    </members>
+</doc>

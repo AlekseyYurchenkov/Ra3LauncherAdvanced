@@ -1,0 +1,16 @@
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.csproj.AssemblyReference.cache
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.MainForm.resources
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.Properties.Resources.resources
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.csproj.GenerateResource.cache
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\Ra3LauncherAdvanced.exe.config
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\Ra3LauncherAdvanced.exe
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\Ra3LauncherAdvanced.pdb
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.exe
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.pdb
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\BorderLabel.dll
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\BorderLabel.xml
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3Launc.BC8BE67D.Up2Date
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\obj\Debug\Ra3LauncherAdvanced.HowToMultiplayerForm.resources
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\Resources\FourGbPatchByNtCore.exe
+C:\Users\Nope.mp4\source\repos\Ra3LauncherAdvanced\bin\Debug\Resources\localization.ini
